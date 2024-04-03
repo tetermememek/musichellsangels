@@ -29,7 +29,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=f"https://t.me/berlinmusic_support"),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/areamidnight"),
+            InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/Hellsangelsarea"),
         ],
     ]
     return buttons
